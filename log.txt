@@ -1,0 +1,700 @@
+**********SONG INFO*********
+0
+song name: Good as Hell (feat. Ariana Grande) - Remix
+preview song: https://p.scdn.co/mp3-preview/95a1c1a7a990490f1bd7d8d0645d3d4a38e08e22?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Good as Hell (feat. Ariana Grande) [Remix]
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+1
+song name: Santa Tell Me
+preview song: null
+album: Santa Tell Me
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+2
+song name: 7 rings
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+3
+song name: thank u, next
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+4
+song name: boyfriend (with Social House)
+preview song: null
+album: boyfriend
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+5
+song name: break up with your girlfriend, i'm bored
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+6
+song name: Santa Baby
+preview song: null
+album: Christmas Kisses
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+7
+song name: Last Christmas
+preview song: null
+album: Christmas Kisses
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+8
+song name: no tears left to cry
+preview song: null
+album: Sweetener
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+9
+song name: Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)
+preview song: null
+album: Charlie's Angels (Original Motion Picture Soundtrack)
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+10
+song name: God is a woman
+preview song: null
+album: Sweetener
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+11
+song name: needy
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+12
+song name: NASA
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+13
+song name: imagine
+preview song: null
+album: thank u, next
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+14
+song name: Bad To You (with Normani & Nicki Minaj)
+preview song: null
+album: Charlie's Angels (Original Motion Picture Soundtrack)
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+15
+song name: breathin
+preview song: null
+album: Sweetener
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+16
+song name: Into You
+preview song: null
+album: Dangerous Woman
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+17
+song name: One Last Time
+preview song: null
+album: My Everything (Deluxe)
+artist(s): Ariana Grande
+*****************************
+**********SONG INFO*********
+18
+song name: Dance To This (feat. Ariana Grande)
+preview song: null
+album: Bloom
+artist(s): Troye Sivan
+*****************************
+**********SONG INFO*********
+19
+song name: Side To Side
+preview song: null
+album: Dangerous Woman
+artist(s): Ariana Grande
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: August Hall
+Venue Location: San Francisco
+Date of the Event: 2019-12-20T19:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2020-01-11T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Staples Center
+Venue Location: Los Angeles
+Date of the Event: 2020-01-12T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: T-Mobile Arena
+Venue Location: Las Vegas
+Date of the Event: 2020-01-25T20:00:00
+*****************************
+********MOVIE INFO******
+Title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Release Year: 2005
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: 76%
+Country of Production: USA, UK
+Language: English, German, Brazilian Sign Language
+Plot: Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.
+Actors: Georgie Henley, Skandar Keynes, William Moseley, Anna Popplewell
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-15T20:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-17T20:30:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-18T20:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-19T20:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-21T20:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: The Fillmore
+Venue Location: Miami Beach
+Date of the Event: 2019-12-22T20:30:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-12T21:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Coliseu dos Recreios
+Venue Location: Lisboa
+Date of the Event: 2020-01-16T21:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-26T20:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-27T20:30:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-29T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-01-30T20:30:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-01T20:30:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-02T20:30:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-04T20:30:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-05T20:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-06T20:30:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-08T20:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-09T20:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-11T20:30:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-12T20:30:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-13T20:30:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-15T20:30:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: The London Palladium
+Venue Location: London
+Date of the Event: 2020-02-16T20:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-18T20:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-19T20:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-20T20:00:00
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: GRAND REX
+Venue Location: Paris 20 Ménilmontant
+Date of the Event: 2020-02-21T20:30:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-22T20:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-23T20:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-25T20:30:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-26T20:30:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-27T20:30:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-02-29T20:30:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-01T20:30:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-03T20:30:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-04T20:30:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-07T20:30:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-08T20:30:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-10T20:30:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Grand Rex
+Venue Location: Paris
+Date of the Event: 2020-03-11T20:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)
+preview song: https://p.scdn.co/mp3-preview/650dc288044b9f2c07a0838198538f94362aa3c4?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Christmas Songs by Sinatra
+artist(s): Frank Sinatra
+*****************************
+**********SONG INFO*********
+1
+song name: Let Me Know (I Wonder Why Freestyle)
+preview song: null
+album: Let Me Know (I Wonder Why Freestyle)
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+2
+song name: Let It Snow! Let It Snow! Let It Snow!
+preview song: null
+album: A Winter Romance
+artist(s): Dean Martin
+*****************************
+**********SONG INFO*********
+3
+song name: Let You Down
+preview song: null
+album: Perception
+artist(s): NF
+*****************************
+**********SONG INFO*********
+4
+song name: Let Me Down Slowly
+preview song: https://p.scdn.co/mp3-preview/a784e71dbc6c31f02d4ab06d36b472ecbddbaaf9?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Narrated For You
+artist(s): Alec Benjamin
+*****************************
+**********SONG INFO*********
+5
+song name: Say You Won't Let Go
+preview song: https://p.scdn.co/mp3-preview/00825cb1779b31d68964eda6f2a7911fc2ae96c6?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Back from the Edge
+artist(s): James Arthur
+*****************************
+**********SONG INFO*********
+6
+song name: wanna grow old (i won't let go)
+preview song: https://p.scdn.co/mp3-preview/dac51bb86c6de87b13e429f335f8a6828358b117?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Bad Vibes Forever
+artist(s): XXXTENTACION
+*****************************
+**********SONG INFO*********
+7
+song name: Let It Go
+preview song: null
+album: Chaos And The Calm
+artist(s): James Bay
+*****************************
+**********SONG INFO*********
+8
+song name: Let Her Go
+preview song: https://p.scdn.co/mp3-preview/043435de75e5889850d1caa8a479d5168ecf5ff3?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: All the Little Lights (Deluxe Version)
+artist(s): Passenger
+*****************************
+**********SONG INFO*********
+9
+song name: wanna grow old (i won't let go)
+preview song: https://p.scdn.co/mp3-preview/dac51bb86c6de87b13e429f335f8a6828358b117?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Bad Vibes Forever
+artist(s): XXXTENTACION
+*****************************
+**********SONG INFO*********
+10
+song name: Let Me Love You
+preview song: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Let Me Love You
+artist(s): Mario
+*****************************
+**********SONG INFO*********
+11
+song name: Let Me Go (with Alesso, Florida Georgia Line & watt)
+preview song: null
+album: Let Me Go (with Alesso, Florida Georgia Line & watt)
+artist(s): Hailee Steinfeld
+*****************************
+**********SONG INFO*********
+12
+song name: Let It Go - From "Frozen"/Soundtrack Version
+preview song: null
+album: Frozen (Original Motion Picture Soundtrack / Deluxe Edition)
+artist(s): Idina Menzel
+*****************************
+**********SONG INFO*********
+13
+song name: Let It Happen
+preview song: null
+album: Currents
+artist(s): Tame Impala
+*****************************
+**********SONG INFO*********
+14
+song name: Don't Let Me Down
+preview song: https://p.scdn.co/mp3-preview/4f410d4293b502e25df3e782c443d1745382c3da?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Don't Let Me Down
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+15
+song name: Let Me Love You
+preview song: null
+album: Encore
+artist(s): DJ Snake
+*****************************
+**********SONG INFO*********
+16
+song name: Let It Be - Remastered 2009
+preview song: null
+album: Let It Be (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+17
+song name: Let It Go
+preview song: null
+album: Just Like You
+artist(s): Keyshia Cole
+*****************************
+**********SONG INFO*********
+18
+song name: Let Me Go
+preview song: null
+album: The Search
+artist(s): NF
+*****************************
+**********SONG INFO*********
+19
+song name: Won’t Let Go
+preview song: null
+album: Death Race For Love
+artist(s): Juice WRLD
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: & Juliet (Original London Cast Recording)
+artist(s): Cassidy Janson
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=864a2bafb4d64596b0aafcd630bcd9b4
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way - Manuel's Southbeat Mix
+preview song: null
+album: I Want It That Way (The Remixes)
+artist(s): Manuel Costa
+*****************************
