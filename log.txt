@@ -698,3 +698,13 @@ preview song: null
 album: I Want It That Way (The Remixes)
 artist(s): Manuel Costa
 *****************************
+********MOVIE INFO******
+Title: Harry Potter and the Deathly Hallows: Part 2
+Release Year: 2011
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 96%
+Country of Production: USA, UK
+Language: English
+Plot: Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) search for Voldemort's (Ralph Fiennes') remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+*****************************
