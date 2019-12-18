@@ -2,7 +2,10 @@
 
 # LIRI Bot
 Created By: Hyejin Kim, Creator
+
 Date: Dec. 18, 2019
+
+- - -
 
 ### Overview
 
@@ -22,6 +25,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
+- - -
 
 ### Quick Instructions
 
@@ -106,11 +110,19 @@ node_modules
 * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`. You will see the log of all comment output.
 
 
+
+- - -
+
 ### SCREENSHOTS
 
 
 
+
+- - -
+
 ### Links & Portfolio's Links
+*  [Deployed Version of App](https://cshjnim.github.io/liri-node-app/)
+*  [Hyejin's Portfolio](https://cshjnim.github.io/)
 
 ### Summary of Technologies Used on this project
 
@@ -128,6 +140,7 @@ node_modules
 * Git
 * GitHub
 
+- - -
 ### CHECKLISTS
 
 1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why) &check;
