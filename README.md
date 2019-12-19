@@ -59,6 +59,8 @@ node_modules
 
    * `do-what-it-says`
 
+   ![Results](/screenshots/thisisloaded.png)
+
 ### What Each Command Should Do
 
 1. `node liri.js concert-this <artist/band name here>`
@@ -71,6 +73,8 @@ node_modules
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+     ![Results](/screenshots/concert-madonna.png)
+
 2. `node liri.js spotify-this-song '<song name here>'`
 
    * This will show the following information about the song in your terminal/bash window
@@ -82,6 +86,8 @@ node_modules
      * A preview link of the song from Spotify
 
      * The album that the song is from
+
+     ![Results](/screenshots/song-letitgo.png)
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -98,25 +104,21 @@ node_modules
        * Actors in the movie.
      ```
 
+     ![Results](/screenshots/movie-narnia.png)
+
 4. `node liri.js do-what-it-says`
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run using what it says in `random.txt`.
 
+     ![Results](/screenshots/dowhatitsays.png)
+
+     ![Results](/screenshots/dowhatitsays-harry.png)
 
 ### IN ADDITION TO SCREENSHOTS
 
 * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`. You will see the log of all comment output.
-
-
-
-- - -
-
-### SCREENSHOTS
-
-
-
 
 - - -
 
